@@ -7,7 +7,6 @@ This company is well-known for delivering high-quality interior design solutions
 ## Authors
 
 - [@annielee8457](https://www.github.com/annielee8457)
-- [@](https://github.com/jolonbentley)
-- [@](https://www.github.com/annielee8457)
+- [@JolonBentley](https://github.com/jolonbentley)
 - [@](https://www.github.com/annielee8457)
 
