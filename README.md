@@ -1,3 +1,13 @@
+Project Lead: Subin Lee
+
+Designer: Harrison Popham
+
+Deverloper: Jolon Morris-Bentley
+
+Business Analyst: Jared Equieron
+
+All files are compatible with VSCode and live server.
+
 
 # First class Interior - Captivate Interior
 
