@@ -4,7 +4,7 @@ Designer: Harrison Popham
 
 Deverloper: Jolon Morris-Bentley
 
-Business Analyst: Jared Equieron
+Business Analyst: Jared Requieron
 
 All files are compatible with VSCode and live server.
 
